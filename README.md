@@ -76,4 +76,4 @@ $ uvicorn main:app --reload
 で起動する。
 
 4. アプリの停止
-5. ctrl + Cで、停止。
+ctrl + Cで、停止。
